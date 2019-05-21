@@ -1,5 +1,5 @@
 FROM php:apache
-LABEL maintainer="Nate Subra <nate.p.subra@gmail.com>"
+LABEL maintainer="Mattia Rossi <mattia.rossi@gmail.com>"
 
 ENV PHPIPAM_SOURCE https://github.com/phpipam/phpipam/
 ENV PHPIPAM_VERSION 1.3.2
